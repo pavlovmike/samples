@@ -2,7 +2,7 @@
 
 Collection of code snippets and libraries for Kyivstar Open Telecom project
 
-# Endpoint snippet structure
+# endpoint snippet structure
 
 Snippets for endpoints started with parameters you should set for your environment and sample before run, for example:
 /python/snippets/msisdn_activation_check.py
