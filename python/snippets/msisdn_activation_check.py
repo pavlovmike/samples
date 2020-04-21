@@ -1,6 +1,6 @@
 import requests
 import json
-from snippets.client_cred_auth import authenticate
+from client_cred_auth import authenticate
 
 # SET HERE YOUR url, clientId and secret
 apiServerUrl = "https://<Kyivstar api base url>"
